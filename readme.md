@@ -1,3 +1,3 @@
 # first-project
 
-[text];
+구구단 코드
